@@ -4,7 +4,7 @@
 
 Welcome to HRnet! This is our company's internal application to create and view employee records.  
 
-you can visit the site here  https://hrnet-january.netlify.app/
+you can visit the site <a href="https://hrnet-january.netlify.app/" target="_blank">here</a> 
 
 ## Plugins downloaded  
 
