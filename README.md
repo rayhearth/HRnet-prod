@@ -1,11 +1,10 @@
-# hrnetprod-2
-
-# Projet 14 - HRnet  
+# HRnet - prod 
 
 <img src="https://github.com/rayhearth/p14-hrnet/blob/master/public/logo.svg" alt="Logo HRnet" width="100px"></img>
 
 Welcome to HRnet! This is our company's internal application to create and view employee records.  
 
+you can visit the site here  https://hrnet-january.netlify.app/
 
 ## Plugins downloaded  
 
